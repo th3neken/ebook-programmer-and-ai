@@ -1,0 +1,13 @@
+class GameConfig:
+    BOARD_WIDTH = 20
+    BOARD_HEIGHT = 10
+    TRAP_COUNT = 5
+    TREASURE_COUNT = 3
+    TRAP_PENALTY = -10
+    TREASURE_REWARD = 20
+    PLAYER_SYMBOL = "@"
+    EXIT_SYMBOL = "E"
+    TRAP_SYMBOL = "^"
+    TREASURE_SYMBOL = "*"
+    WALL_SYMBOL = "#"
+    EMPTY_SYMBOL = " "
