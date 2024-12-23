@@ -1,6 +1,7 @@
-# Dungeon Explorer
 
-A simple text-based dungeon exploration game where players navigate through a maze while collecting treasures and avoiding traps.
+# This code is a part of the eBook published by Łukasz Boruń
+
+To read more go to https://holistyczny.dev
 
 ## Description
 
