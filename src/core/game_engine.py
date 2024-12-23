@@ -1,6 +1,6 @@
 from core.game_state import GameState
 from ui.renderer import GameRenderer
-from ui.input_handler import InputHandler
+from input.input_handler import InputHandler
 
 class GameEngine:
     def __init__(self):
