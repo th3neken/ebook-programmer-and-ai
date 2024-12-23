@@ -41,18 +41,9 @@ python src/main.py
 - Python 3.12.x
 - Compatible with macOS
 
-## Project Structure
+## Technical Structure
 
-```
-/
-├── src/
-│   ├── main.py
-│   └── helpers/
-│       └── (helper components)
-├── prompts/
-│   └── (prompt examples)
-└── README.md
-```
+All additional technical information are in prompts/TECHNICAL.md
 
 ## Author
 
